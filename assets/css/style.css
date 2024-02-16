@@ -12,15 +12,7 @@ label {
 h2 {
     color:black;
 }
-.container {
-    width: 50%;
-    margin: 0 auto; /* Center the container horizontally */
-    padding: 20px;
-     background-size: cover;
-    color:#ccc;
-    font-weight: 1500;
-    font-size: 15px;
-}
+ 
 
 input {
     margin-bottom: 10px;
